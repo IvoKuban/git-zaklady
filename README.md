@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet!
+Ahoj svet, Filip!
 
 ## O mne
 Ja som Filip.
